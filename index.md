@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+#Ishan's First CS193 Homework!
+
+##Favorite Things About CS193
+- What we learn is extremely useful not just right now but in the future too
+- Useful terminal commands
+- Arman and Eddie are amazing!
+
+##Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
